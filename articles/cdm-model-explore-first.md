@@ -34,7 +34,7 @@ Common Data Model は標準化された拡張可能なデータ スキーマの�
 ## エンティティ拡張
 Common Data Model においては、あるエンティティを再利用して、新たなエンティティを定義することができます。例えば、人というエンティティを拡張してエンジニアというエンティティを定義することを想定します。
 
-:::note warn
+:::message alert
 この後のエンティティの表記は実際の表記とは異なっていますので、そのまま Common Data Model の一部として利用することはできません。
 :::
 
@@ -73,7 +73,7 @@ https://github.com/microsoft/CDM
 ## エンティティの参照
 それでは、エンティティを実際に参照してみましょう。Github リポジトリにアクセスしたら Entity Reference Index を開きます。
 
-:::note info
+:::message
 Github リポジトリのトップページからご自身で Entity Reference Index へのリンクを探していただくこともできますし、下記のリンクを踏んでいただいてもよいと思います。
 https://github.com/microsoft/CDM/blob/master/schemaDocuments#directory-of-cdm-entities
 :::
@@ -90,7 +90,7 @@ https://github.com/microsoft/CDM/blob/master/schemaDocuments#directory-of-cdm-en
 
 Account.*.cdm.json というファイル群が出てきます。これらのファイルは Account エンティティの定義情報です。ここでは、最新バージョンである Account.cdm.json を開いてみます。
 
-::: note info
+:::message
 最新バージョンも含め、エンティティ名.バージョン番号.cdm.json というファイル群が存在していますが、最新バージョンは、エンティティ名.cmd.json ファイルからも参照できます。
 :::
 
@@ -124,4 +124,3 @@ hasAttributes 要素の中が属性となります。
 技術的な複雑さというよりも、読み解くうえで理解しておいた方がよさそうなルールが沢山あるところが Common Data Model の難しいポイントかなと思います。一方で、一つずつ理解してしまえば、あとは世の中の何かをデータモデル化してあるものとして捉えていくことができるかなと思います。
 
 今時点の予定では、あと2-3記事位に分けて、CDM を紐解いていきたいなと思っています。
-
