@@ -73,7 +73,7 @@ https://github.com/microsoft/CDM
 ## エンティティの参照
 それでは、エンティティを実際に参照してみましょう。Github リポジトリにアクセスしたら Entity Reference Index を開きます。
 
-:::note
+:::note info
 Github リポジトリのトップページからご自身で Entity Reference Index へのリンクを探していただくこともできますし、下記のリンクを踏んでいただいてもよいと思います。
 https://github.com/microsoft/CDM/blob/master/schemaDocuments#directory-of-cdm-entities
 :::
@@ -90,7 +90,7 @@ https://github.com/microsoft/CDM/blob/master/schemaDocuments#directory-of-cdm-en
 
 Account.*.cdm.json というファイル群が出てきます。これらのファイルは Account エンティティの定義情報です。ここでは、最新バージョンである Account.cdm.json を開いてみます。
 
-::: note
+::: note info
 最新バージョンも含め、エンティティ名.バージョン番号.cdm.json というファイル群が存在していますが、最新バージョンは、エンティティ名.cmd.json ファイルからも参照できます。
 :::
 
