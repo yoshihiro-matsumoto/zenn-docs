@@ -2,7 +2,7 @@
 title: "Bing Search API を LLM プラグインに利用する際の考慮事項あれこれ"
 emoji: "🧐"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["BingWebSearchAPI", "LLMPlugin"]
+topics: ["Bing Web Search API", "LLM Plugin"]
 published: false
 ---
 
