@@ -3,6 +3,7 @@ title: "新卒アーキテクトの楽しさと苦悩（メンター編）"
 emoji: "🐸"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["キャリア","新卒"]
+publication_name: "microsoft"
 published: true
 ---
 
