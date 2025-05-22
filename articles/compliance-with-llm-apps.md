@@ -2,7 +2,8 @@
 title: "生成 AI を利用するためにコンプライアンス関連の話を考える"
 emoji: "👮"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["GenAI", "Compliance"]
+topics: ["GenAI", "Compliance", "法規制", "LLM"]
+publication_name: "microsoft"
 published: true
 ---
 
