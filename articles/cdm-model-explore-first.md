@@ -3,6 +3,7 @@ title: "CDMモデルを紐解く"
 emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["CDM","データモデル","データ管理","Commom Data Model"]
+publication_name: "microsoft"
 published: true
 ---
 

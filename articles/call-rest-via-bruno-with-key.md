@@ -3,6 +3,7 @@ title: "Bruno に乗り換えることになったので使ってみる"
 emoji: "🐕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["REST", "Bruno"]
+publication_name: "microsoft"
 published: true
 ---
 
